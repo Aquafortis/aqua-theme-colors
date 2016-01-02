@@ -1,10 +1,9 @@
-# Aqua Theme Colors
-### Plugin for the Bludit Aqua Theme
-#### Customize your Aqua theme colors
+## Aqua Theme for Bludit
+### Full page navigation with large fonts
 
-**Use this plugin to customize your Aqua theme colors.**
+**Use the 'Aqua Theme Colors' plugin to customize your theme colors.**
 
-The Aqua theme can be downloaded from [Aquafortis on Github](https://github.com/Aquafortis)
+The plugin can be downloaded from [Aquafortis on Github](https://github.com/Aquafortis/aqua-theme-colors)
 
 To change the header image, just replace the header.jpg in the images folder with your own image using the same name.
 
@@ -16,6 +15,6 @@ Change the Primary color to anything you like.
 
 Use a darker color for your Secondary color. This will be the nav background, text and buttons hover colors.
 
-You can view a demo of the Aqua theme at [deltatheme.com](https://deltatheme.com/bludit/aqua/)
+You can view a demo of this theme at [deltatheme.com](https://deltatheme.com/bludit/aqua/)
 
 Don't forget to download our AddToAny social sharing plugin from [Bludit](https://github.com/dignajar/bludit-plugins)
