@@ -6,11 +6,11 @@
  *  @package Bludit
  *  @subpackage Plugins
  *  @author Aquafortis
- *  @copyright 2016 Aquafortis
- *  @version 1.0
+ *  @copyright 2017 Aquafortis
+ *  @version 1.1
  *  @website https://github.com/Aquafortis
  *  @release 2016-01-02
- *  @update 2016-01-02
+ *  @update 2017-07-16
  *
  */
 
