@@ -1,7 +1,6 @@
 {
-	"plugin-data":
-	{
-		"name": "Aqua Theme Colors",
-		"description": "Змініть кольору теми Аqua."
-	}
+  "plugin-data": {
+    "name": "Aqua Theme Colors",
+    "description": "Змініть кольору теми Аqua."
+  }
 }

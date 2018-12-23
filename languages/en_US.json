@@ -1,12 +1,11 @@
 {
-	"plugin-data":
-	{
-		"name": "Aqua Theme Colors",
-		"description": "Change your Aqua Theme Colors.",
-		"author": "Aquafortis",
-		"email": "",
-		"website": "https://github.com/Aquafortis",
-		"version": "1.0",
-		"releaseDate": "2016-01-02"
-	}
+  "plugin-data": {
+    "name": "Aqua Theme Colors",
+    "description": "Change your Aqua Theme Colors.",
+    "author": "Aquafortis",
+    "email": "",
+    "website": "https://github.com/Aquafortis",
+    "version": "1.0",
+    "releaseDate": "2016-01-02"
+  }
 }

@@ -1,7 +1,6 @@
 {
-	"plugin-data":
-	{
-		"name": "Aqua Theme Colors",
-		"description": "Das Plugin erlaubt die Anpassung der Farben des Themes Aqua."
-	}
+  "plugin-data": {
+    "name": "Aqua Theme Colors",
+    "description": "Das Plugin erlaubt die Anpassung der Farben des Themes Aqua."
+  }
 }
